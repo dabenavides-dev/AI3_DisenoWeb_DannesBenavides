@@ -10,8 +10,7 @@ Módulo Web Dinámico en PHP con CRUD + Seguridad - Fase 2.
 
 ## Cómo desplegar localmente
 
-1. Clonar el repositorio en `htdocs`:
-   git clone https://github.com/TU-USUARIO/AI3_DisenoWeb_NombreApellido.git
+1. Clonar el repositorio en htdocs : git clone https://github.com/dabenavides-dev/AI3_DisenoWeb_DannesBenavides.git
 
 2. Iniciar Apache y MySQL en XAMPP.
 
