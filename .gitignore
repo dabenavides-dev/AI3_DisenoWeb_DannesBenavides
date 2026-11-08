@@ -1,0 +1,19 @@
+# Entorno local
+.env
+.env.local
+
+# Dependencias PHP
+/vendor/
+
+# Logs y cache
+*.log
+/error_log
+.DS_Store
+Thumbs.db
+
+# Configuración de editores
+.vscode/
+.idea/
+
+# Archivos de XAMPP / sistema
+*.sql.bak
